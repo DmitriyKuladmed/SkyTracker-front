@@ -16,6 +16,7 @@
    ```
    git clone https://github.com/DmitriyKuladmed/SkyTracker-front.git
    cd SkyTracker-front
+   ```
 
 2. **Установите зависимости:**:
    ```

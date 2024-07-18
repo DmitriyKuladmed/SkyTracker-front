@@ -48,7 +48,7 @@
 ![image](https://github.com/user-attachments/assets/2ad56841-ca30-4188-9e34-0eca55168c83)
 ![image](https://github.com/user-attachments/assets/00dffc99-1ee9-4b6a-856f-d339d9c5da06)
 
-После того как был просмотрен город Брест, он появляется в меню последних просмотренных городов, а также в профиле (со счетчиком поиска равынм 1):
+### После того как был просмотрен город Брест, он появляется в меню последних просмотренных городов, а также в профиле (со счетчиком поиска равынм 1):
 ![image](https://github.com/user-attachments/assets/d87da2e9-2feb-493c-851f-8ab77f840e7b)
 ![image](https://github.com/user-attachments/assets/6140a1af-96cc-4e08-9ed6-0b0ada854b81)
 

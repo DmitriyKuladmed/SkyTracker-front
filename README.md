@@ -41,6 +41,7 @@
    ```
    docker-compose up --build
    ```
+![image](https://github.com/user-attachments/assets/2db758fe-f7f5-489c-9c96-51a028727e73)
 
 **Автор**: [Кулага Дмитрий]  
    

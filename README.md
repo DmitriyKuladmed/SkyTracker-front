@@ -24,20 +24,9 @@
 
    ```
    git clone https://github.com/DmitriyKuladmed/SkyTracker-front.git
-   cd SkyTracker-front
    ```
 
-2. **Установите зависимости**:
-   ```
-   yarn install
-   ```
-   
-4. **Вернитесь на 1 уровень вверх**:
-   ```
-   cd ..
-   ```
-
-5. **Запустите контейнер Docker**:
+2. **Запустите контейнер Docker**:
    ```
    docker-compose up --build
    ```

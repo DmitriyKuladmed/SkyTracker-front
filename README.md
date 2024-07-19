@@ -1,4 +1,4 @@
-# SkyTracker
+# SkyTracker Frontend
 
 **SkyTracker** — это веб-приложение для отслеживания погоды.
 
